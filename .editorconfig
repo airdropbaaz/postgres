@@ -7,8 +7,8 @@ tab_width = 4
 
 [*.{sgml,xml}]
 indent_style = space
-indent_size = 1
+indent_size = 12
 
 [*.xsl]
 indent_style = space
-indent_size = 2
+indent_size = 3
